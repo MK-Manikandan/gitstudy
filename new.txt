@@ -1,3 +1,1 @@
-New file is being created in the third commit
-first line for squashing
-second line for squashing
+This change is made in india branch to make conflict
