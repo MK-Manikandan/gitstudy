@@ -1,1 +1,3 @@
 New file is being created in the third commit
+first line for squashing
+second line for squashing
